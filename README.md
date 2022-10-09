@@ -82,5 +82,5 @@
       </p>
     * Are there any outliers for cardholder ID 25? How many outliers are there per month?
 
-      There is one outlier in January, March and May, and three in April and June. 
+      There is one outlier in January, March and May respectively, and three in April and June respectively. 
 
