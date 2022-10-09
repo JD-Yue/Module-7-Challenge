@@ -16,7 +16,7 @@
 
 * Take your investigation a step further by considering the time period in which potentially fradulent transactions are made.
     * What are the top 100 transactions made between 7.00 am and 9.00 am?
-      * [Query sql](https://github.com/JD-Yue/Module-7-Challenge/blob/main/Data_Analysis_Part_1/3_1_top_100_7-9.sql)
+      * [Query sql](https://github.com/JD-Yue/Module-7-Challenge/blob/main/Data_Analysis_Part_1/3_1_top_100_7_9.sql)
       * [Dataframe](https://github.com/JD-Yue/Module-7-Challenge/blob/main/Data_Analysis_Part_1/3_2_top_100_7_9.csv)
     * Do you see any anomalous transactions that could be fraudulent? 
 
@@ -37,8 +37,8 @@
       Such spendings are unusual especially for Laurie Gibbs, Malik Carlson and Stephanie Dalton (does not occur on a frequent basis).
    
     * Is there a higher number of fraudulent transactions made during this time frame versus the rest of the day?
-      * [Query sql](https://github.com/JD-Yue/Module-7-Challenge/blob/main/Data_Analysis_Part_1/4_1_top_100_rest_of_day.sql)
-      * [Dataframe](https://github.com/JD-Yue/Module-7-Challenge/blob/main/Data_Analysis_Part_1/4_2_top_100_rest_of_day.csv)
+      * [Query sql](https://github.com/JD-Yue/Module-7-Challenge/blob/main/Data_Analysis_Part_1/4_2_top_100_rest_of_days.sql)
+      * [Dataframe](https://github.com/JD-Yue/Module-7-Challenge/blob/main/Data_Analysis_Part_1/4_1_top_100_rest_of_days.csv)
 
       There are far more larger value transactions during other times of the day. This makes sense, as the fancy, expensive corporate lunches and dinners take place later in the day. The transactions of such amounts are also normal to these customers (in the top spendings category). Thus there is no sound evidence to suggest that there is a higher number of fraudulent transactions made during this time frame.
 
