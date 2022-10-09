@@ -1,3 +1,4 @@
+CREATE VIEW complete_table AS
 SELECT card_holder.id, card_holder.name, credit_card.card, transaction.date, transaction.amount, merchant.name as merchant, merchant_category.name as category
 FROM card_holder 
   FULL OUTER JOIN credit_card

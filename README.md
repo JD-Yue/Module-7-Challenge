@@ -84,5 +84,3 @@
 
       There is one outlier in January, March and May, and three in April and June. 
 
-### Challenge
-
